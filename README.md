@@ -1,4 +1,5 @@
-## Ola, me chamo Samy<br> Seja bem vindo(a)!
+## Ola, me chamo Samy. Seja bem vindo(a)!
+<p>Estou estudando intensivamente desenvolvimento front-end e back-end</p>
 
 <div>
   <a href="https://github.com/SamyJorge">
