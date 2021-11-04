@@ -1,5 +1,5 @@
 # Ola, me chamo Samy. Sejam bem vindos!
-<p>Estou estudando intensivamente desenvolvimento front-end e back-end, para me tornar um dessenvolvedor full stack.</p>
+<p>Estou estudando intensivamente desenvolvimento front-end e back-end, amo aprender e meu objetivo é me tornar no futuro um dessenvolvedor full stack.</p>
 
 <div>
   <a href="https://github.com/SamyJorge">
