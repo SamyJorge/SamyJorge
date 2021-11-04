@@ -1,4 +1,4 @@
-## Ola, me chamo Samy. Seja bem vindo(a)!
+# Ola, me chamo Samy. Sejam bem vindos!
 <p>Estou estudando intensivamente desenvolvimento front-end e back-end, para me tornar um dessenvolvedor full stack.</p>
 
 <div>
