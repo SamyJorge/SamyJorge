@@ -1,4 +1,4 @@
-# Ola, me chamo Samy jorge!
+# Ola, me chamo Samy Jorge!
 <p>Estou estudando intensivamente desenvolvimento front-end e back-end.<br> Amo aprender e meu objetivo é me tornar no futuro um desenvolvedor full stack.</p>
 
 <div>
