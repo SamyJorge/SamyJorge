@@ -1,5 +1,5 @@
 # Ola, me chamo Samy Jorge!
-<p>Estou estudando desenvolvimento front-end e back-end.<br> Amo aprender e meu objetivo é me tornar no futuro um desenvolvedor full stack.</p>
+<p>Estou estudando bastante e estou com sede de começar e trabalhar para colocar em pratica o que já aprendi até aqui!</p>
 
 <div>
   <a href="https://github.com/SamyJorge">
