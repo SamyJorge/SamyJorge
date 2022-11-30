@@ -1,5 +1,4 @@
 # Ola, me chamo Samy Jorge!
-<p>Estou estudando bastante e estou com sede de começar e trabalhar para colocar em pratica o que já aprendi até aqui!</p>
 
 <div>
   <a href="https://github.com/SamyJorge">
